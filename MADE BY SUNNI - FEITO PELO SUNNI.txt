@@ -1,0 +1,13 @@
+=====================================================
+  PROJETO EXPORTADO COM SUCESSO
+  MADE BY SUNNI - FEITO PELO SUNNI
+=====================================================
+
+App ID: 6abb38dc29f7f2f0f80b8d38
+App Name: Neves Choperia
+Export Date: 2026-09-29T06:16:55.707Z
+Owner: wvinicius337@gmail.com
+
+Para rodar este projeto no seu computador:
+1. npm install
+2. npm run dev
